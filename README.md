@@ -1,1 +1,0 @@
-# Kvantron_Codebar
