@@ -6,7 +6,8 @@
 В классе **```DetectionBar```** прописаны методы распознование штрихкодов и отрисовки границ.
 # Результат запуска: 
 
-https://github.com/user-attachments/assets/b1324bcc-45da-4588-8a9f-6a51b5894e8f
+https://github.com/user-attachments/assets/c76faa39-608b-468c-9621-7978f273c666
+
 
 
 # Описание ```DetectionBar```
@@ -726,7 +727,9 @@ public class DetectionCodeBar {
     this.readers = readers.toArray(EMPTY_READER_ARRAY);
   }
 ```
-![image](https://github.com/user-attachments/assets/58ba3dbf-11c6-4c8c-813f-da213598aed8) ![image](https://github.com/user-attachments/assets/b13fe528-9477-44e9-b2e0-2ca56a3a82bb)
+![image](https://github.com/user-attachments/assets/8096f03d-caef-4c08-bb0e-daad6d6b1745) ![image](https://github.com/user-attachments/assets/4581c04f-3416-4cf1-bf8a-2026fd762f07)
+
+
 - В данном случае, если мы рассматриваем данные штрихкоды, то декодер будет определен в классе ```MultiFormatOneDReader()``` для соответстующего вида штрихкода.
 ```java
  // At end in "try harder" mode
