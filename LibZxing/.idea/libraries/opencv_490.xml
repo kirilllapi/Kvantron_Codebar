@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="opencv-490">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/opencv-490.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://docs.opencv.org/4.9.0/javadoc/index.html" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib/x64" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/opencv-490.jar!/" />
+    </SOURCES>
+  </library>
+</component>
