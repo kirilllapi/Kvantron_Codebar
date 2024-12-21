@@ -12,10 +12,10 @@ https://github.com/user-attachments/assets/c76faa39-608b-468c-9621-7978f273c666
 
 
 
-# Описание ```DetectionBar```
+# Описание ```DetectionBarcode```
 ```java
-class DetectionCodeBar {
-    public static void detectedCodeBar() {
+class DetectionBarcode {
+    public static void detectedBarcode() {
 
         VideoCapture capture = new VideoCapture(0);
         if (!capture.isOpened()) {
